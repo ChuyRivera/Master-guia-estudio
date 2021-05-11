@@ -71,4 +71,4 @@ Es la entrega de servicios de cómputa a travez de internet de Microsoft.
 
 * __Grupo de recursos:__ Contenedor lgico que incluye los recursos relacionados con una solución. Sirven para administrar mejor tus recursos.
 
->Nota: un __recursos_ obligatoriamente debe tener un __grupo de recuros__.
+>Nota: un __recurso__ obligatoriamente debe tener un __grupo de recuros__.
